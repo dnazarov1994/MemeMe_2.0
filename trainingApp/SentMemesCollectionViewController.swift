@@ -22,8 +22,6 @@ class SentMemesCollectionViewController: UICollectionViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
-        
         let space:CGFloat = 2.0
         let dimension = (view.frame.size.width - (2 * space)) / 3.0
     
