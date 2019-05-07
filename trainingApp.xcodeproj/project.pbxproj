@@ -87,16 +87,11 @@
 		690A30D921E2B8CA00434CEE /* trainingApp */ = {
 			isa = PBXGroup;
 			children = (
+				692378A6228131A300AD5907 /* Assets */,
+				692378A52281318300AD5907 /* Controller */,
 				690A30DA21E2B8CA00434CEE /* AppDelegate.swift */,
-				690EA09C21FE149B00BA9207 /* SentTableViewController.swift */,
-				690A30DC21E2B8CA00434CEE /* MemeEditorViewController.swift */,
-				690EA0A021FE27EC00BA9207 /* MemeDetailViewController.swift */,
 				690EA0A4220147AA00BA9207 /* MemeCollectionViewCell.swift */,
-				690EA09A21FE120E00BA9207 /* SentMemesCollectionViewController.swift */,
 				6910775421EFCD1E00101C76 /* Meme.swift */,
-				690A30DE21E2B8CA00434CEE /* Main.storyboard */,
-				690A30E121E2B8CA00434CEE /* Assets.xcassets */,
-				690A30E321E2B8CA00434CEE /* LaunchScreen.storyboard */,
 				690A30E621E2B8CA00434CEE /* Info.plist */,
 			);
 			path = trainingApp;
@@ -109,6 +104,27 @@
 				690A30F121E2B8CA00434CEE /* Info.plist */,
 			);
 			path = trainingAppTests;
+			sourceTree = "<group>";
+		};
+		692378A52281318300AD5907 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				690EA09A21FE120E00BA9207 /* SentMemesCollectionViewController.swift */,
+				690EA0A021FE27EC00BA9207 /* MemeDetailViewController.swift */,
+				690A30DC21E2B8CA00434CEE /* MemeEditorViewController.swift */,
+				690EA09C21FE149B00BA9207 /* SentTableViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		692378A6228131A300AD5907 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				690A30E321E2B8CA00434CEE /* LaunchScreen.storyboard */,
+				690A30E121E2B8CA00434CEE /* Assets.xcassets */,
+				690A30DE21E2B8CA00434CEE /* Main.storyboard */,
+			);
+			path = Assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
