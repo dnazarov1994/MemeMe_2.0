@@ -3,4 +3,6 @@ An app that enables a user to take a picture, and add text at the top and bottom
 
 <img width="394" alt="Screen Shot 2019-08-25 at 12 24 03 PM" src="https://user-images.githubusercontent.com/46335329/63652888-a4950580-c733-11e9-8e87-e6338ccab36d.png">
 
+<img width="395" alt="Screen Shot 2019-08-25 at 12 25 42 PM" src="https://user-images.githubusercontent.com/46335329/63652895-c9897880-c733-11e9-81eb-cd239b7ed283.png">
+
 
